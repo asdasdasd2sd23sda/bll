@@ -4,4 +4,4 @@ local function Banned(UserID, Reason)
 	end
 end
 
-Banned(715022569, 'o')
+Banned(2589710571, 'o')
